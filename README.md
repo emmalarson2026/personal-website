@@ -1,2 +1,3 @@
-# personal-website
-Emma Larson — emmalarson.org
+# Emma Larson
+
+Source + sitemaps for [emmalarson.org](https://emmalarson.org).
